@@ -33,3 +33,4 @@ This Repository contains a few of my learning projects and these are slightly ad
 - xkcd - Grabs comics posted to xkcd.com
 - zenpencil - Grabs all comics from zenpencils.com
 - riksdagen - Grabs debates and documents from riksdagen.se
+- unicode-emoji-chart - Grabs emoji and metadata from unicode.org
