@@ -1,3 +1,23 @@
-# ML-and-advanced-python
+# Machine Learning, Deep Learning and some more advanced Data Science focused projects.
 
-just started working with machine learning and a few advanced python projects, the first few projects i have done with it. nothing very impressive, hopefully something better is coming soon
+This Repository contains a few of my learning projects and these are slightly advanced than my intermediary python porject repo.
+
+## Technologies used:
+
+- Python (duh)
+- Tensor Flow
+- Keras
+- SCSS
+- OpenCV
+- NumPY
+- Matplot Lib
+- scikit-learn
+- Pandas
+
+## Staistical Analysis' used:
+- Linear and Logistic Regression
+- Clustering
+- k-means Clustering 
+
+## Tools for data scarpers used:
+- BeautifulSoup
