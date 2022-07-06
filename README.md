@@ -21,3 +21,12 @@ This Repository contains a few of my learning projects and these are slightly ad
 
 ## Tools for data scarpers used:
 - BeautifulSoup
+
+## Data Scrapers Made
+- calibre-server - Grabs ebooks from a calibre-server
+- shzm - Grabs the top 50 songs by city from shazam.com
+- wallhaven - Grabs all the images for a given search query from wallhaven.cc
+- wallpaperflare - Grabs all or some wallpapers with search from wallpaperflare.com
+- waset - Grabs papers published to waset.org
+- xkcd - Grabs comics posted to xkcd.com
+- zenpencil - Grabs all comics from zenpencils.com
