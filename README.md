@@ -22,6 +22,7 @@ This Repository contains a few of my learning projects and these are slightly ad
 ## Tools for data scarpers used:
 - BeautifulSoup
 
+
 ## Data Scrapers Made
 - ijsrd - Grabs papers published to ijsrd.com
 - ijssb - Grabs papers published to ijssb.com
