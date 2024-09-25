@@ -4,7 +4,7 @@ This Repository contains a few of my learning projects and these are slightly ad
 
 ## Technologies used:
 
-- Python (duh)
+- Python 
 - Tensor Flow
 - Keras
 - SCSS
