@@ -1,5 +1,0 @@
-numpy
-opencv
-haarcascade_frontalface_default.xml ( Download and Paste it int the PROJECT Directory )
-gtts
-playsound
